@@ -8,3 +8,15 @@ Frthermore we have made a Component Folder in the src folder and I have made 3-4
 The appropriate styling and media queries have also been added to the JSX files to ensure the websites are responsive as well
 
 Today I will try to complete another Component for my Web Eng project the About Us page using React 
+
+Almost Done with the 
+Header
+Footer
+Hotel Cards
+Feedback Form 
+Login/SignUp
+Reviews
+Feedback Form
+
+Will continue the Rest Tomorrow and Commit the changes 
+
