@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  .testimonial-container {
+    width: 70%;
+    height: fit-content;
+    margin: 0 auto;
+    margin-top: 30px;
+
+  }
+  
+  .testimonial {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  .guest-photo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 15px;
+  }
+  
+  .guest-message {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 15px;
+    color:black;
+  }
+  
+  .guest-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .guest-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .guest-rating {
+    font-size: 18px;
+    color: #fcbf1e;
+    font-weight: bold;
+  }

@@ -1,0 +1,27 @@
+.container {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.form-control:focus {
+  border-color: #f79e02;
+  box-shadow: none;
+}
+
+.btn-primary {
+  background-color: #f79e02;
+  border-color: #f79e02;
+  width:50%;
+  display:inline-block;
+
+}
+
+.btn-primary:hover {
+  background-color: #e48e01;
+  border-color: #e48e01;
+}
+
