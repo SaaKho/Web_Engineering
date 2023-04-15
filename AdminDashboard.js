@@ -8,7 +8,7 @@ export default function AdminDashboard() {
             <div class="content">
                 <div class="sidebar">
                     <div class="profile">
-                        <img src="6.jpg" alt="Admin profile picture" />
+                        <img src="profilepic.png" alt="Admin profile picture" />
                         <div class="profile-info">
                             <p>
                                 <strong>Username:</strong> Saadan Khokhar
