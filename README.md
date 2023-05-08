@@ -9,11 +9,4 @@ The appropriate styling and media queries have also been added to the JSX files 
 
 Today I will try to complete another Component for my Web Eng project the About Us page using React 
 
-Almost Done with the 
-Header
-Footer
-Hotel Cards
-Feedback Form 
-Login/SignUp
-Reviews
-Feedback Form
+Done with the entire UI now I have started work on Node and Express and also connected MongoDB Atlas
